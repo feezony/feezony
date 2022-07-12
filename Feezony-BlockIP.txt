@@ -1,5 +1,8 @@
 #Black List Ip-Address by Feezony [2022-07-12]
 #Most of them is IP from Thailand
+101.108.94.35
+106.75.5.253
+192.241.205.109
 103.10.230.250
 192.81.134.7
 192.241.221.15
