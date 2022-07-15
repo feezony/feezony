@@ -1,5 +1,8 @@
 #Black List Ip-Address by Feezony [2022-07-14]
 #Most of them is IP from Thailand
+#2022-07-15 13:34:41 #IPsec VPN
+118.194.251.72
+107.150.105.215
 #2022-07-15 07:40:21 #user, user2
 125.26.109.183
 203.150.97.200
