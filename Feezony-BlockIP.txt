@@ -1,5 +1,5 @@
-#Black List Ip-Address by Feezony [2022-07-15]
-#Most of them is IP from Thailand
+#Blacklist Ip-Address by Feezony [2022-07-15]
+#Most of them is IP-Address from Thailand
 #2022-07-15 15:13:37 #user4, user, user5, test
 180.183.123.37
 110.169.175.250
