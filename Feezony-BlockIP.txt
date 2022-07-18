@@ -1,5 +1,8 @@
 #Blacklist Ip-Address by Feezony [2022-07-17]
 #Most of them is IP-Address from Thailand
+#2022-07-18 11:36:55 # admin
+183.89.156.204
+171.6.157.131
 #2022-07-18 08:41:25 # admin
 223.204.180.1
 1.2.234.82
