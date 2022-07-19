@@ -1,6 +1,17 @@
 #Blacklist Ip-Address by Feezony [2022-07-18]
 #Most of them is IP-Address from Thailand
-#2022-07-19 12:07:12 #oadmin, badmin, vadmin, ladmin, sadmin, radmin, aadmin, hadmin, layman, radmin, postgres, yadmin
+#2022-07-18 18:55:31 #IPsec VPN
+173.255.215.225
+192.241.222.164
+#2022-07-19 20:51:06 #administrator,sophos,admin
+184.22.153.31
+58.11.70.107
+49.228.70.134
+183.88.122.106
+223.206.221.182
+141.164.96.144
+183.89.90.61
+#2022-07-19 12:07:12 #oadmin, badmin, vadmin, ladmin, sadmin, radmin, aadmin, hadmin, layman, radmin, postgres, yadmin,ladmin,vadmin,padmin,
 183.88.72.31
 159.192.68.148
 202.137.134.174
@@ -13,7 +24,10 @@
 119.76.135.209
 180.183.169.218
 14.207.15.165
-
+125.26.89.86
+61.90.111.96
+110.78.208.57
+124.122.69.125
 #2022-07-19 07:32:02 #postgres, fadmin, mark, manager, padmin, uadmin, xadmin, fadmin, qadmin, aadmin, chris, jadmin,cadmin,server,networkadmin,qadmin,sql,sadmin
 110.78.138.101
 124.122.67.204
@@ -35,7 +49,7 @@
 14.207.62.51
 183.89.174.164
 #2022-07-18 18:55:31 #IPsec VPN
-173.255.215.225
+173.255.215.225 
 #2022-07-18 11:36:55 # admin
 183.89.156.204
 171.6.157.131
