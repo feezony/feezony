@@ -1,5 +1,19 @@
 #Blacklist Ip-Address by Feezony [2022-07-18]
 #Most of them is IP-Address from Thailand
+#2022-07-19 12:07:12 #oadmin, badmin, vadmin, ladmin, sadmin, radmin, aadmin, hadmin, layman, radmin, postgres, yadmin
+183.88.72.31
+159.192.68.148
+202.137.134.174
+183.89.77.96
+119.42.124.162
+223.205.62.216
+110.77.245.165
+183.88.86.220
+14.207.55.103
+119.76.135.209
+180.183.169.218
+14.207.15.165
+
 #2022-07-19 07:32:02 #postgres, fadmin, mark, manager, padmin, uadmin, xadmin, fadmin, qadmin, aadmin, chris, jadmin,cadmin,server,networkadmin,qadmin,sql,sadmin
 110.78.138.101
 124.122.67.204
