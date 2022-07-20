@@ -1,6 +1,7 @@
 #Blacklist Ip-Address by Feezony [2022-07-20]
 #Most of them is IP-Address from Thailand
-#2022-07-20 08:07:13 #mcafe,trendmicro,kaspersky,veritas,webroot,avg,panda,gdata,avast,admin,altaro
+#2022-07-20 08:44:24 #bitdefender,mcafe,trendmicro,kaspersky,veritas,webroot,avg,panda,gdata,avast,admin,altaro
+110.78.155.25
 14.207.81.66
 14.207.12.63
 115.87.154.177
