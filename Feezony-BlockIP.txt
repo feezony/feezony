@@ -1,5 +1,13 @@
 #Blacklist Ip-Address by Feezony [2022-07-20]
 #Most of them is IP-Address from Thailand
+#2022-07-20 12:20:01 #admin,altaro,malwarebytes,eset,intego,vmware
+184.22.121.51
+183.182.111.1
+1.1.225.43
+116.58.232.49
+27.131.135.50
+161.200.134.34
+183.88.39.254
 #2022-07-20 08:44:24 #bitdefender,mcafe,trendmicro,kaspersky,veritas,webroot,avg,panda,gdata,avast,admin,altaro
 110.78.155.25
 14.207.81.66
