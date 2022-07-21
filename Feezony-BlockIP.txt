@@ -1,5 +1,16 @@
 #Blacklist Ip-Address by Feezony [2022-07-20]
 #Most of them is IP-Address from Thailand
+#2022-07-21 14:09:20 #backup,testadmin,superadmin,vmadmin,sbsdmin,backupadmin,postgres,sysadmin
+171.101.5.251
+183.88.61.20
+183.88.195.65
+180.183.120.83
+171.101.216.32
+180.183.126.205
+119.42.67.69
+14.207.49.103
+202.139.192.151
+202.176.184.194
 #2022-07-20 14:02:40 #IPsec VPN
 192.241.216.43
 192.241.215.45
