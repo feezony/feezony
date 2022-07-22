@@ -1,5 +1,16 @@
 #Blacklist Ip-Address by Feezony [2022-07-21]
 #Most of them is IP-Address from Thailand
+#2022-07-22 12:58:46 #iyadmin,hcadmin,sales,eradmin,domain,lyadmin,gvadmin,rvadmin,ccadmin,hkadmin
+171.97.33.14
+180.183.126.230
+110.77.138.20
+171.97.128.97
+124.120.96.75
+110.77.138.20
+180.180.255.242
+159.192.162.31
+119.76.135.180
+113.53.172.131
 #2022-07-22 08:01:53 #lgadmin,qnadmin,viadmin,chadmin,bladmin,hladmin,kadmin,enadmin,igadmin,default,chadmin,jtadmin,lladmin,jvadmin,czadmin,iadmin
 14.207.241.67
 14.207.7.15
