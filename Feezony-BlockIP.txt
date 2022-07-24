@@ -1,5 +1,8 @@
-#Blacklist Ip-Address by Feezony [2022-07-23]
+#Blacklist Ip-Address by Feezony [2022-07-24]
 #Most of them is IP-Address from Thailand
+#2022-07-24 11:41:23 #IPsec VPN
+74.207.240.30
+154.89.5.92
 #2022-07-24 12:51:47 #hhadmin
 58.11.54.123
 183.88.48.37
