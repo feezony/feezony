@@ -1,0 +1,1292 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=",  3HD
+https://cdn6.goprimetime.info/feed/202205171929/ch3hd/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=",  5HD
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=", 7HD
+https://cdn6.goprimetime.info/feed/202205171929/ch7hd/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=", MCOT HD
+https://cdn6.goprimetime.info/feed/202205171929/chmcothd/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=", NBT HD
+https://cdn6.goprimetime.info/feed/202205171929/chnbt/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=", THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=", ONE HD
+https://cdn6.goprimetime.info/feed/202205171929/chonehd/index.m3u8 
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , THAIRATH TV
+https://cdn6.goprimetime.info/feed/202205171929/chthairath/index.m3u8 
+#EXTINF:-1  group-title="DIGITAL TV"tvg-logo=", AMARIN TV
+https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , PPTV
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+#EXTINF:-1  group-title="DIGITAL TV"tvg-logo=", WORKPOINT
+https://cdn6.goprimetime.info/feed/202205171929/chworkpoint/index.m3u8 
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , CH8
+https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8 
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , MONO 29
+https://cdn6.goprimetime.info/feed/202205171929/chmono29/index.m3u8 
+#EXTINF:-1  group-title="DIGITAL TV"tvg-logo=" , GMM25
+https://cdn6.goprimetime.info/feed/202205171929/chgmm/index.m3u8 
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo="  , TNN24
+https://cdn6.goprimetime.info/feed/202205171929/chtnn/index.m3u8 
+#EXTINF:-1  group-title="DIGITAL TV"tvg-logo=", TRUE4U
+https://cdn6.goprimetime.info/feed/202205171929/202105171329/chtrue4u/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , JKN 18
+https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="DIGITAL TV"tvg-logo=" , TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1 group-title="DIGITAL TV",TOPNEWs
+https://live.topnews.co.th/hls/topnews_720.m3u8
+#EXTINF:-1  group-title="DIGITAL TV",News1
+http://news1.live14.com/stream/news1_hi.m3u8
+
+
+ 
+
+#EXTINF:-1  group-title="Documentary" ,LOVENATURE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Documentary" ,LOVENATURE FHD
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKgCcJ.jpg",BBC lifestyle 
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.img.in.th/images/c82524d69eb891f833be4654636361f8.jpg",BBC EARTH
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/neqWPD.png",สำรวจโลก
+http://61.19.242.134/feed/202105171329//LC8/index.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/03/nexdeI.png",MYSCI
+http://61.19.242.134/feed/202105171329/LC37/index.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKRonD.png",เจริญเคเบิ้ล
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/20/rKg279.jpg",ดูนี่
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17144005_ico.png",LOVENATURE
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r8/lovenature4k/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://sv1.picz.in.th/images/2022/02/08/r0gxB9.png",Smithsonian
+http://61.19.242.134/feed/202105171329/LC43/index.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18936544_ico.png",ExploreWild
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="",Explorlife
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="",ExplorSci
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://wacth.officebk.co/uploads/tv_image/20220113192658tlc.png",TLC
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r7/hd-tlc/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="",Discovery
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17143958_ico.png",Discovery Asia 
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/discovery-asia/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17143992_ico.png",History
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-history/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/17143998_ico.png",H2HD
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-history2/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://we-play.live/uploads/posters/national-geographic-poster1602705795.jpeg",Nationnal_geographic
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/natgeo/playlist.m3u8
+#EXTINF:-1 group-title="Documentary"tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522446_ico.png",Animal_Planet
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/hd-animalplanet/playlist.m3u8
+
+
+
+ 
+#EXTINF:-1 group-title="Premier League Football"  ,PREMIER 1 M3U8
+http://w.nasvpn.xyz:8080/live/best/best/16395.m3u8
+#EXTINF:-1 group-title="Premier League Football"  ,PREMIER 1 PLAY ID
+https://raw.githubusercontent.com/Playidturl1/playlist/main/sportch/tpf1b.m3u8
+ 
+#EXTINF:-1 group-title="Premier League Football"  ,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115759
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115760
+ 
+ 
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 2
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115509
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115518
+ 
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8 
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115512
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115520
+ 
+#EXTINF:-1  group-title="Premier League Football",PREMIER 4
+https://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115513
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115522
+ 
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115515
+#EXTINF:-1 group-title="Premier League Football" ,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115525
+ 
+#EXTINF:-1  group-title="Premier League Football",BEIN 1
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
+ 
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 2
+https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
+ 
+#EXTINF:-1 group-title="Premier League Football" ,BEIN 3
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+#EXTINF:-1  group-title="Premier League Football",BEIN 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
+ 
+#EXTINF:-1,SPOTV 1
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv1/playlist.m3u8
+#EXTINF:-1,SPOTV 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115682
+#EXTINF:-1,SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+ 
+#EXTINF:-1,SPOTV 2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv2/playlist.m3u8
+#EXTINF:-1,SPOTV 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115433
+#EXTINF:-1,SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8 
+
+ 
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at1.png",Assp1
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at2.png",Assp2
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport2/chunks.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at2.png",Assp3
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport3/chunks.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/at2.png",Assp4
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport4/chunks.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://bit.ly/3KZfL4G",TNTSPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://bit.ly/3KZfL4G",TNTSPORTS 2
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://bit.ly/3KZfL4G",TNTSPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://bit.ly/3KZfL4G",TNTSPORTS 4
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 group-title="sport-inter"tvg-logo="https://bit.ly/3KZfL4G",TNTSPORTS 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+ 
+ 
+
+
+#EXTINF:-1 group-title="Premier League Football",Premier Football 1 TH [Thai]
+https://cdn.googlecdnforstreaming.live/dbf789/epl1/chunks.m3u8
+#EXTINF:-1  group-title="Premier League Football",Premier Football HD TH 1  [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/tpf1_480/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 2  [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/tpf2/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 2  [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 2-X [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/tpf3/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 3
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/115510
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 3 [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 3-X
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 4
+https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 4-X
+https://cdn.googlecdnforstreaming.live/dbf789/tpf4/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football HD TH 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier Football TH 5  [ENG]
+https://cdn.googlecdnforstreaming.live/dbf789/tpf5/chunks.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier HD1
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115759&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Premier HD2
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115762&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Premier HD3
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115512&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Premier HD4
+http://119.59.101.124:8410/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Premier HD5
+http://119.59.101.124:8410/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",beIN SPORTS 1
+http://194.87.196.74/no.php?playurl=http://198.16.64.10:8278/Beinhd/playlist.m3u8
+#EXTINF:-1  group-title="Premier League Football",beIN SPORTS 3
+http://194.87.196.74/no.php?playurl=http://198.16.64.10:8278/Bein2hd/playlist.m3u8
+#EXTINF:-1 group-title="Premier League Football",Astro Supersport UHD
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Asto Sport 1
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115615&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Asto Sport 2
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115616&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Asto Sport 3
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115617&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Asto Sport 4
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=115618&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Asto Sport 5
+http://n2086.securepoint.io:25461/bGHneAydPw/HIYbObxdD1/197518
+#EXTINF:-1 group-title="Premier League Football",LFC TV1
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=117748&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",LFC TV2
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8
+#EXTINF:-1 group-title="Premier League Football",MU TV
+https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Premier League Football",BT SPORT 1
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=9850&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",BT SPORT 2
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=9848&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",BT SPORT 3
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=9846&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",BT ESPN
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=23657&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Sky Sports main event
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=37073&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Sky Sports Premier League
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=37069&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",Sky Sports football
+http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=11658&extension=ts&play_token
+#EXTINF:-1 group-title="Premier League Football",BEIN SPORT 1 AR - RT
+http://93.152.174.144:4000/play/bein1rt/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",BEINSPORTAR
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",BT SPORT 1
+http://93.152.174.144:4000/play/btsport1/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",BT SPORT 2
+http://93.152.174.144:4000/play/btsport2/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",BT SPORT ESPN
+http://93.152.174.144:4000/play/btsportespn/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",BTSPORT3
+http://93.152.174.144:4000/play/btsport3/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein LaLiga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8
+#EXTINF:-1  group-title="Premier League Football",Bein Sport 1 AR
+http://93.152.174.144:4000/play/bein1ar/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sport 2 AR
+http://93.152.174.144:4000/play/bein2ar/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sport 4 ar
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sports 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sports 3 AR
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sports 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sports 5 AR
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",Bein Sports 7 AR
+http://93.152.174.144:4000/play/bein7/index.m3u8
+#EXTINF:-1 group-title="Premier League Football",LFC
+https://streamamg-liver01.akamaized.net/hls/live/2039999/int/int_3/hdntl=exp=1661943682~acl=%2f*~data=hdntl~hmac=3972c6ac1bec2f0fcc021482816351f41964ed1357e4dd6413638fddd0013686/chunklist.m3u8
+#EXTINF:-1 group-title="Premier League Football",MUTV
+https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Premier League Football",REAL MADRID
+https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" group-title="wild life" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,LOVENATURE4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,LOVENATURE4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,  3HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/chunks.m3u8
+#EXTINF:-1,  5HD
+https://freelive.inwstream.com:1936/freelive-edge/ch5hd/chunks.m3u8
+#EXTINF:-1, 7HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/chunks.m3u8
+#EXTINF:-1, MCOT HD
+http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
+#EXTINF:-1, NBT HD
+https://freelive.inwstream.com:1936/freelive-edge/nbt/chunks.m3u8
+#EXTINF:-1, THAI TPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1, ONE HD
+https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
+#EXTINF:-1, THAIRATH TV
+https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
+#EXTINF:-1, AMARIN TV
+https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
+#EXTINF:-1, PPTV
+https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/chunks.m3u8
+#EXTINF:-1, WORKPOINT
+http://live2.dootvde.com/live/50016_workpoint_tv.stream.smil/playist.m3u8
+#EXTINF:-1, CH8
+https://freelive2.inwstream.com:1936/freelive-edge/ch8/chunks.m3u8
+#EXTINF:-1, MONO 29
+http://110.164.48.218:1935/.../chunklist_b1628000_sltha.m3u8
+#EXTINF:-1 , GMM25
+https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
+#EXTINF:-1 , TNN24
+https://freelive2.inwstream.com:1936/freelive-edge/tnn24/chunks.m3u8
+#EXTINF:-1, TRUE4U
+https://freelive2.inwstream.com:1936/freelive-edge/true4u/chunks.m3u8
+#EXTINF:-1, JKN 18
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/chunklist_w1477849682.m3u8
+#EXTINF:-1, NEWS1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1, ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1, TOP NEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1, TPTV
+https://freelive.inwstream.com:1936/freelive-edge/tptv/chunks.m3u8
+#EXTINF:-1,  PREMIER LEAGUE
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678029.m3u8
+#EXTINF:-1", SPOTV1 HD
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1, SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:-1, ABU DHABI SPORTS1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, ABU DHABI SPORTS2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-, ABU DHABI SPORTS3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, DHABI SPORTS HD1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, DHABI SPORTS HD2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, DHABI SPORTS HD3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF: -1, FOX SPORTS
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+#EXTINF: -1, FOX SPORTS2
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+#EXTINF: -1, FOX SPORTS3
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+#EXTINF:-1, VARITY1
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678020.m3u8
+#EXTINF:-1,  VARIETY2
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678021.m3u8
+#EXTINF:-,  VRAITY3
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678022.m3u8
+#EXTINF:-1,  VRAITY4
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678023.m3u8
+#EXTINF:-1,  LALIGA
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/683001.m3u8
+#EXTINF:-1,  CRICKET
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/688714.m3u8
+#EXTINF:-1,  PSL
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678030.m3u8
+#EXTINF:-1,  PREMIER LEAGUE
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678029.m3u8
+#EXTINF:-1,  GRANDSTAND
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678031.m3u8
+#EXTINF:-1,  ACTION
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/683568.m3u8
+#EXTINF:-1,  RUGBY
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678026.m3u8
+#EXTINF:-1,  GOLF
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678028.m3u8
+#EXTINF:-1,  MOTORSPORT
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/6780245.m3u8
+#EXTINF:-1,  BLITZ
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/682921.m3u8
+#EXTINF:-1,  MAXIMO1
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/682919.m3u8
+#EXTINF:-1, TENNIS
+http://mytv.fun/live/jpa61hyaym/mhtit3xpsa/678027.m3u8
+#EXTINF:-1,Bein Sport 1 FR
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1,Bein Sport 2 FR
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1,Bein Sport 3 FR
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+#EXTINF:-1, WWE
+http://93.152.174.144:4000/play/WWE/index.m3u8
+#EXTINF:-1, FITE
+https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1, FIGHT SPORTS
+http://210.210.155.35/session/ed4cf284-0efc-11ec-a75d-c81f66f89318/dr9445/h/h05/01.m3u8
+#EXTINF:-1, FIGHT SPORTS+
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/high/c.m3u8
+#EXTINF:-1, KIX
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,ESPN
+http://189.91.128.146:4444/udp/227.10.20.81:1234
+#EXTINF:-1,ESPN
+http://ttv.bz:80/manolopc1/7U49kuozK8/1047
+#EXTINF:-1,ESPN 2
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46529
+#EXTINF:-1,ESPN 2
+http://189.91.128.146:4444/udp/227.10.20.128:1234
+#EXTINF:-1, ESPN 2
+http://189.91.128.146:4444/udp/227.10.20.152:1234
+#EXTINF:-1,ESPN 2
+http://189.91.128.146:4444/udp/227.10.20.86:1234
+#EXTINF:-1,ESPN 3
+http://ttv.bz:80/manolopc1/7U49kuozK8/1048
+#EXTINF:-1,ESPN 3
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/82884
+#EXTINF:-1,ESPN 3
+http://189.91.128.146:4444/udp/227.10.20.153:1234
+#EXTINF:-1, ESPN 4
+http://189.91.128.146:4444/udp/227.10.20.116:1234
+#EXTINF:-1 ,ESPN 4
+http://ttv.bz:80/manolopc1/7U49kuozK8/1038
+#EXTINF:-1, Goltv
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/45783
+#EXTINF:-1, Goltv
+http://170.83.242.155:5350/play/a00v
+#EXTINF:-1, Goltv
+http://160.20.164.171:8001/play/a03x
+#EXTINF:-1, Goltv
+http://200.24.132.99:8000/play/a023
+#EXTINF:-1, Goltv
+http://45.224.23.212:8000/play/a004/index.m3u8
+#EXTINF:-1,Goltv
+http://200.24.159.179:8500/play/a03b
+#EXTINF:-1,Goltv
+http://200.41.79.165:8000/play/a05u/index.m3u8
+#EXTINF:-1,Ring 
+http://84.54.179.207:8000/play/a04d
+#EXTINF:-1, Спорт 1
+http://178.175.173.250:19000/play/a00i
+#EXTINF:-1,Eleven Sports 1 [F1]
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/73681
+#EXTINF:-1,Eleven Sports 2
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/95833
+#EXTINF:-1,Eleven Sports 3
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/73682
+#EXTINF:-1,Eleven Sports 4
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/73683
+#EXTINF:-1, Arena Sport 1
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/133074
+#EXTINF:-1,Arena Sport 1
+http://185.56.251.38:4000/play/a08j/index.m3u8
+#EXTINF:-1,Arena Sport 2
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/133075
+#EXTINF:-1,Arena Sport 3
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/133076
+#EXTINF:-1,Arena Sport 4
+http://panel.tivix.eu:80/sisilnew/2PgvU7ujL8/133077
+#EXTINF:-1,Arena Sport 5
+#EXTINF:-1, Arena Sport 6
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9727
+#EXTINF:-1, L'Equipe
+http://86.233.110.21:9981/stream/channelid/1483317522?profile=pass
+#EXTINF:-1, L'Equipe
+http://82.65.113.245:9981/stream/channelid/317961957?profile=pass
+#EXTINF:-1,SPORT1
+http://77.20.92.117:9981/stream/channelid/2065200622?profile=pass
+#EXTINF:-1, Barcelona tv
+http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTINF:-1,Real Madrid Tv
+https://bit.ly/RealMadridtv?/chunklist.m3u8
+#EXTINF:-1,Real Madrid Tv
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1545
+#EXTINF:-1,Spotv
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+#EXTINF:-1,Sky F1 
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1,Tennis Channel Internacionalᴴᴰ [Pluto]
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1,Tennis Channel
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+#EXTINF:-1,GolfPass [Pluto]
+https://bit.ly/golfpassusa?/5.m3u8
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ziggo Sport
+http://80.112.91.253:9981/stream/channelid/1343877467?profile=pass
+#EXTINF:-1,Ziggo Sport
+http://84.105.161.90:9981/stream/channelid/505177577?profile=pass
+#EXTINF:-1,FOX Sports 2
+http://189.91.128.146:4444/udp/227.10.20.132:1234
+#EXTINF:-1, Band Sport
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/46507
+#EXTINF:-1, Band Sport
+http://191.212.166.203:4000/play/a090
+#EXTINF:-1, Premiere
+http://189.91.128.146:4444/udp/227.10.20.102:1234
+#EXTINF:-1, Premiere 2
+http://189.91.128.146:4444/udp/227.10.20.104:1234
+#EXTINF:-1, ESPN 
+http://178.251.29.83:7242/play/a01e
+#EXTINF:-1, 2
+http://178.251.29.83:7242/play/a01r
+#EXTINF:-1, ESPN 4
+http://178.251.29.83:7242/play/a01b
+#EXTINF:-1, ESPN Extra
+http://38.143.137.221:8000/LA78/index.m3u8
+#EXTINF:-1,ESPN Deportes
+http://38.143.137.221:8000/LA81/index.m3u8
+#EXTINF:-1, ESPN 3
+http://38.143.137.221:8000/LA79/index.m3u8
+#EXTINF:-1, ESPN 2
+http://69.164.224.53:80/ESPN2/mpegts
+#EXTINF:-1,Bein Sports 1ᴴᴰ
+http://37.235.38.139:4000/play/a054º
+#EXTINF:-1,Bein Sports 2ᴴᴰ
+http://37.235.38.139:4000/play/a0cc
+#EXTINF:-1,Bein Sports Max 4ᴴᴰ
+http://37.235.38.139:4000/play/a085
+#EXTINF:-1,Bein Sports Max 5ᴴᴰ
+http://37.235.38.139:4000/play/a086
+#EXTINF:-1,Bein Sports Max 6ᴴᴰ
+http://37.235.38.139:4000/play/a087
+#EXTINF:-1,Bein Sport
+http://213.7.193.54:4000/play/a002
+#EXTINF:-1,Bein SportXtra [Pluto]
+https://bit.ly/BeinSportXtra?/master.m3u8
+#EXTINF:-1, Bein SportXtra [Pluto]
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_3.m3u8
+#EXTINF:-1, Bein Sports Xtra
+https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+#EXTINF:-1,Bein Sports Xtra ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF:-1,Eurosport 1
+http://213.151.233.20:8000/dna-6069-tv-pc/hls/4000v105.m3u8
+#EXTINF:-1, Eurosport 1
+http://77.20.92.117:9981/stream/channelid/1473366433?profile=pass
+#EXTINF:-1, Eurosport 1
+http://84.200.70.178:41142/bysid/31200
+#EXTINF:-1,Eurosport 2
+http://212.102.60.80/Eurosport2/index.m3u8
+#EXTINF:-1,NBA tv
+https://tvnow.best/api/stream/htuqan1@gmail.com/311470/livetv.epg/nba.tv.canada.ca.m3u8
+#EXTINF:-1,Trace Sports [Pluto]
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+#EXTINF:-1,,Eleven Sports 1
+rtmp://59.124.75.138:1935/sat/tv731
+#EXTINF:-1, Eleven Sports 2 
+rtmp://59.124.75.138:1935/sat/tv741
+#EXTINF:-1,Nova Sport 3 
+http://84.42.140.147:8890/hdmi
+#EXTINF:-1, Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1,ntv sports
+http://37.221.121.166:8383/hls/trspor/index.m3u8
+#EXTINF:-1,TYC Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1115
+#EXTINF:-1,TYC Sports Play
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
+#EXTINF:-1,Deportvᴴᴰ
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w712949315.m3u8
+#EXTINF:-1,Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1,Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1,Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://www.img.in.th/images/e299f2a177540b23d8a78789cd02d4a2.jpg", SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://www.img.in.th/images/0d46bfb892fc534ad56fe3550e0f0adf.jpg", SPOTV2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", Mutv
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210617-125135-tv-station_Sport-Klub-1.png", SK1HD
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/sportklub1slovenia/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", sport1+
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/sport1plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDE6MTE6MzAgQU0maGFzaF92YWx1ZT00em9WVE5McGc2ZEo5aElxd2xqcVh3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9NzcwMzM0
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", LFCTV
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDE6MTc6NTkgQU0maGFzaF92YWx1ZT1mSEJTMnNHSklXUUMyaFZCMGdWKzl3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjAmaWQ9ODk0NjQw
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", ziggosportvoetbal
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDE6MjE6MjcgQU0maGFzaF92YWx1ZT1OQlUxYlBpNExVcVIrbHp2a0wzOHpBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9Mjc3MTk5
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210723-032806-tv-station_Sky-Sports-Mix-(UK).png", Sky-Sports-Mix-(UK)
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDE6Mjk6NDkgQU0maGFzaF92YWx1ZT1ibm0rTnhURlpJV0hEZEVYUVFpOUpnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9NTQ5OTQx
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", astrosupersport4
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDc6NDM6NTAgQU0maGFzaF92YWx1ZT1GN3NiTWlZa3J5bXJaaUFRejVhR3pRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9MzkxMjEz
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", Digisport3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDc6NDc6MjQgQU0maGFzaF92YWx1ZT1EZDNHM0J5dTJVbm1XQjRYVWVleGhRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9NDE2ODYw
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", Digisport2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDc6NTA6NDAgQU0maGFzaF92YWx1ZT1oMkJTMkxzalVHcVVUQnRBWW1lQlpnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9NzIxNDQ1
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", Digisport1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDc6NTI6MjcgQU0maGFzaF92YWx1ZT1IQ2FXeGY3RVVmb0ZSU3ZhaHRzMURRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9MTk5ODY4
+#EXTINF:0 type="stream" channelId="1591" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", Bein Sports
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/beinsports1tu/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDc6NTQ6MDYgQU0maGFzaF92YWx1ZT1IT2xMdWF3Yy84alVhYUVJK0pVb0JRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjgmaWQ9NjI4OTMz
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20220508-062630-dfb1.png", Doofootball1
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r6/baygonhero1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDExOjE3OjUxIEFNJmhhc2hfdmFsdWU9MndUTEt3a0xqM0tsVEZEb1laZUlGZz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPTM5MzAyMQ==
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20220712-062325-dfb2.png", Doofootball2
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r6/baygonhero2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDExOjI0OjAyIEFNJmhhc2hfdmFsdWU9bzlDcDdYS1hMeXdOSEpaSHUwcjBsdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPTQyMDUxNA==
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20220713-034510-dfb3.png", Doofootball3
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r6/baygonhero3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDExOjI2OjQ3IEFNJmhhc2hfdmFsdWU9Z0JUL2E5TE5XYWRLMWpLek43eUwvQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI2JmlkPTg2NDEwOA==
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/SSereisMSV.png", Ais5G esport
+https://49-231-37-229-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V1005/HLS/V1005.m3u8?playbackUrlPrefix=https%3A%2F%2Fhw.play-rbcdn.ais.co.th&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=ce934419a51fad2c7217247de679682c&chunkHttps=true&tmid=V1005&tpbk=QznzcsNRPB0qDiCu&rrt=1661688331&tmod=rfkoh&rsid=d1d5e727-225c-4f74-8f71-a068f0d52636&tuid=m4Ccc00NESmZTIkWgWFxR%2FNejcae8r%2FZkq7GQG0PmIhyy5CM6iMeMr6f1Le5PukCNEQTLYxWNqIVgz3ZzybbJRYy2fsRsjY87GdUvjEhtqXQg%3D&cdn=huawei-https&tdid=29dcc6aebaaa307019bc47e0b150f39a&origin=anevia&tfa=f0-fc&tttl=1661774103
+#EXTINF:0 type="stream" channelId="1193" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", BT SPORT 1
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDEyOjI2OjU2IFBNJmhhc2hfdmFsdWU9Nlhxc25hTkpLeVNCTmpnTCs0bTZpdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIzJmlkPTk4ODMzMw==
+#EXTINF:0 type="stream" channelId="1195" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/assets/dfe6fa77/img/logo_menu/ll5.png", BT SPORT 2
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDEyOjMxOjUzIFBNJmhhc2hfdmFsdWU9eW5qK25UTUhRSUlja0ZObit0clVldz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTIzJmlkPTgzMzMyOQ==
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/astrosupersport-1.jpg", astrosupersport1
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDI6NTA6MTMgUE0maGFzaF92YWx1ZT1tTVVlcUhiZWRxbjdVd2pBdVoxSk9BPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9NDk0OTE3
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/astrosupersport-2.jpg", astro supersport2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDE6NDk6NDQgUE0maGFzaF92YWx1ZT1xQ0F0aGc1Y3NiVnZSZCs3V1lqVDRRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9ODg4OTM0
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/astrosupersport-3.jpg", Astro supersport3
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDI6NTE6MjggUE0maGFzaF92YWx1ZT0xaEJSR3VGYmR5TjFsTjhhTDN0Mm9nPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9MTg2NDQ1
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/selfimgs2/channelimg/20210617-095448-tv-station_ESPN-Brazil.png", Espn
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/espnbrazil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDM6MzQ6MjkgUE0maGFzaF92YWx1ZT1BaU5EYlcvU1BFbk5CUU12SFFaa2RRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9ODEyMzI4
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://api.cloud-streaming.com/images/channel-logo/tv-station--663.png", Skysport mainevent
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDM6Mzc6NTkgUE0maGFzaF92YWx1ZT1FODJVM2lrV1laQzRaeC9sZTh0SWRBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9OTUwMzUy
+#EXTINF:0 type="stream" channelId="-1" group="กีฬา" logo="https://lh3.googleusercontent.com/y2uonJaDqEzuaJNG2grgb7rmcT-RalUQIrvnYiEVLHl4OthNxzpZp_MJAsvlTnNhtf0X=s85", Skysport​
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDM6NDI6NTIgUE0maGFzaF92YWx1ZT1LZXBGL0NJZDZROVMrTEIyaFQrdU5nPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9ODM5Mzg5
+#EXTINF:0 type="stream" channelId="3896" group="กีฬา" logo="https://static-dfb-2021.b-cdn.net/diemasport2-BG.png", Diema Sport 2 HD
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/diemasport2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yOC8yMDIyIDM6NDY6MzQgUE0maGFzaF92YWx1ZT1CanZqM0UwU2RtZkJPV2R1UkFwRHlBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9NjQ0MDA3
+
+
+ 
+
+#EXTINF:-1,CCM
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r8/celestial-classic-movies/playlist.m3u8
+#EXTINF:-1,TVB 
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/tvb/playlist.m3u8
+#EXTINF:-1,TRUE FILM 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd/playlist.m3u8
+#EXTINF:-1,TRUE FILM 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/true-filmhd2/playlist.m3u8
+#EXTINF:-1,TRUE THAI FILM
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truethaifilm/playlist.m3u8 
+#EXTINF:-1,TRUE FILM ASIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truefilmasia/playlist.m3u8
+#EXTINF:-1,TRUE MOVIE HITS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/moviehits/playlist.m3u8 
+#EXTINF:-1,TRUE SERIES
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/trueseries/playlist.m3u8
+#EXTINF:-1,TRUE CHINESE MORE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truechinesemore/playlist.m3u8
+#EXTINF:-1,TRUE ASIAN MORE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-asianseries/playlist.m3u8 
+#EXTINF:-1,TRUE KOREAN MORE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truekoreanmore/playlist.m3u8 
+#EXTINF:-1,TRUE XZYTE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/xzyte/playlist.m3u8 
+#EXTINF:-1,KBS WORLD
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kbsworld/playlist.m3u8
+#EXTINF:-1,KMTV
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/kmtv/playlist.m3u8 
+#EXTINF:-1,AXN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-axn/playlist.m3u8 
+#EXTINF:-1,HBO
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-thai/playlist.m3u8
+#EXTINF:-1,HBO HITS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8
+#EXTINF:-1,HBO SIGNATURE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-hbo-signature/playlist.m3u8
+#EXTINF:-1,HBO FAMILY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hbo-family/playlist.m3u8
+#EXTINF:-1,CINEMAX
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/fhd-cinemax/playlist.m3u8
+#EXTINF:-1,HITS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hits/playlist.m3u8
+#EXTINF:-1,HITS MOVIES
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hitsmovie/playlist.m3u8
+#EXTINF:-1,WARNER TV
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/wbtv/playlist.m3u8 
+#EXTINF:-1,PARAMOUNT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/paramount/playlist.m3u8 
+#EXTINF:-1,ROCK ENTERTAINMENT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueant/playlist.m3u8
+#EXTINF:-1,ROCK EXTREME
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/blueantex/playlist.m3u8
+#EXTINF:-1,3BB ASIAN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbasian/playlist.m3u8
+#EXTINF:-1,MONO29 PLUS +
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/monoplus/playlist.m3u8 
+#EXTINF:-1,FASHION TV
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/fashiontv/playlist.m3u8
+#EXTINF:-1,FW MOV
+https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1,FW SOV
+https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
+#EXTINF:-1,FW TOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,SUN
+https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8 
+#EXTINF:-1,SAMURAI
+https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8  
+#EXTINF:-1,7FLIX
+https://cdn6.goprimetime.info/feed/202205171929/LC5/index.m3u8
+#EXTINF:-1,MOVIE WORLD 1
+https://cdn6.goprimetime.info/feed/202205171929/LC11/index.m3u8  
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8 
+#EXTINF:-1,CHANNEL 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8 
+#EXTINF:-1,BOX FILM
+https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8  
+#EXTINF:-1,SANOOK
+https://cdn6.goprimetime.info/feed/202205171929/LC53/index.m3u8 
+#EXTINF:-1,LOTUS MACAU
+https://cdn6.goprimetime.info/feed/202205171929/LC41/index.m3u8  
+#EXTINF:-1,XING KONG
+https://cdn6.goprimetime.info/feed/202205171929/LC13/index.m3u8  
+#EXTINF:-1,CCTV 4 
+https://cdn6.goprimetime.info/feed/202205171929/LC33/index.m3u8 
+#EXTINF:-1,TVB ไทย 
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8 
+#EXTINF:-1,B4U MOVIES
+https://cdn6.goprimetime.info/feed/202205171929/LC23/index.m3u8 
+#EXTINF:-1,IS TV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8 
+#EXTINF:-1,THRILL
+https://cdn6.goprimetime.info/feed/202205171929/LC26/index.m3u8 
+#EXTINF:-1,WARNER TV 
+https://cdn6.goprimetime.info/feed/202205171929/LC28/index.m3u8 
+#EXTINF:-1,ราม่า
+https://cdn6.goprimetime.info/feed/202205171929/LC27/index.m3u8 
+#EXTINF:-1,FAST FUN BOX
+https://cdn6.goprimetime.info/feed/202205171929/LC6/index.m3u8
+#EXTINF:-1,DIZI BOX
+https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8
+#EXTINF:-1,MTN O KOREA
+https://fhs8037.bd-61.ktcdn.co.kr/mtnlive/_definst_/720/chunklist_w1457396713.m3u8
+#EXTINF:-1,SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1,THAI NEWS
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1,MEDIA NEW TV
+https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1,NK MOVIES
+http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
+#EXTINF:-1,PHETCHABUN TV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1,MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1,ZABB TV
+https://live1.thaitvstream.com/play/zabbtv/index.m3u8
+#EXTINF:-1,SRTV
+https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+#EXTINF:-1,AND TV
+https://live.thaitvstream.com/play/andtv/index.m3u8
+
+
+#EXTINF:-1,ถิ่นใต้
+http://freelive.inwstream.com:1935/freelive-edge/the_battle.stream/playlist.m3u8 
+#EXTINF:-1,HI HD SPORT
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115709
+#EXTINF:-1,ANIMAL PLANET
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-animalplanet/playlist.m3u8
+#EXTINF:-1,DISCOVERY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-discovery/playlist.m3u8 
+#EXTINF:-1,DISCOVERY ASIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/discovery-asia/playlist.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/natgeo/playlist.m3u8 
+#EXTINF:-1,WILD
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-natgeowild/playlist.m3u8
+#EXTINF:-1,BBC EARTH
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbcearth/playlist.m3u8
+#EXTINF:-1,BBC LIFESTYLE
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/bbclifestyle/playlist.m3u8 
+#EXTINF:-1,HISTORY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history/playlist.m3u8 
+#EXTINF:-1,H2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-history2/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE WILD
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truewild/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE SCI
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truesci/playlist.m3u8
+#EXTINF:-1,TRUE EXPLORE LIFE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/truelife/playlist.m3u8
+#EXTINF:-1,FOOD NETWORK
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/foodnetwork/playlist.m3u8
+#EXTINF:-1,LIFETIME
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/lifetime/playlist.m3u8 
+#EXTINF:-1,TLC
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/hd-tlc/playlist.m3u8
+#EXTINF:-1,GEM
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/gem/playlist.m3u8
+#EXTINF:-1,TVN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-tvn/playlist.m3u8
+#EXTINF:-1,AFN
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r8/hd-afc/playlist.m3u8
+#EXTINF:-1,สำรวจโลก
+https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8
+#EXTINF:-1,MYSCI
+https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8 
+#EXTINF:-1,ของดีประเทศไทย
+https://cdn6.goprimetime.info/feed/202205171929/LC31/index.m3u8 
+#EXTINF:-1,WORLD OF SCIENCE
+https://cdn6.goprimetime.info/feed/202205171929/LC3/index.m3u8
+#EXTINF:-1,ANIMAL KINGDOM
+https://cdn6.goprimetime.info/feed/202205171929/LC18/index.m3u8
+#EXTINF:-1,SMITHSONIAN
+https://cdn6.goprimetime.info/feed/202205171929/LC43/index.m3u8
+#EXTINF:-1,ดูนี่ทีวี
+http://49.0.87.24:1936/HDDoonee/Doonee/playlist.m3u8
+#EXTINF:-1,FARM TV
+http://freelive2.inwstream.com:1935/freelive-edge/mixtv.stream/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD VN
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8 
+#EXTINF:-1,INWILD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8 
+#EXTINF:-1,JAROEN CABLE TV 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8 
+#EXTINF:-1,ท็อปไลน์ ทีวี
+https://cdn-th-vip.livestreaming.in.th/ToplineChannel/ToplineChannel/chunklist_w1300695441.m3u8 
+#EXTINF:-1,CGTN DOCUMENT
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1,CGTN 
+https://cdn6.goprimetime.info/feed/202205171929/LC51/index.m3u8 
+#EXTINF:-1,TVE
+https://cdn6.goprimetime.info/feed/202205171929/LC4/index.m3u8
+#EXTINF:-1,ENGLISH CLUB
+https://cdn6.goprimetime.info/feed/202205171929/LC21/index.m3u8
+#EXTINF:-1,AKC
+https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8
+#EXTINF:-1,NASA
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1,OUTSIDE
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,GARAGE
+http://186.0.233.76:1935/Garage/garage.smil/.m3u8
+#EXTINF:-1,MAV TV
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+  
+
+  
+
+
+#EXTINF:-1,PREMIER 1
+https://cdn.googlecdnforstreaming.live/dbf789/epl1/chunks.m3u8
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115757
+#EXTINF:-1,PREMIER 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115771
+ 
+#EXTINF:-1,PREMIER 2
+https://cdn.googlecdnforstreaming.live/dbf789/epl2/chunks.m3u8
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115509
+#EXTINF:-1,PREMIER 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115518
+ 
+#EXTINF:-1,PREMIER 3
+https://cdn.googlecdnforstreaming.live/dbf789/epl3/chunks.m3u8 
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115512
+#EXTINF:-1,PREMIER 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115520
+ 
+#EXTINF:-1,PREMIER 4
+https://cdn.googlecdnforstreaming.live/dbf789/epl4/chunks.m3u8
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115513
+#EXTINF:-1,PREMIER 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115522
+ 
+#EXTINF:-1,PREMIER 5
+https://cdn.googlecdnforstreaming.live/dbf789/epl5/chunks.m3u8
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115515
+#EXTINF:-1,PREMIER 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115525
+ 
+#EXTINF:-1,BEIN 1
+https://cdn.googlecdnforstreaming.live/dbf789/bein1/chunks.m3u8
+#EXTINF:-1,BEIN 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
+
+#EXTINF:-1,BEIN 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
+#EXTINF:-1,BEIN 2
+https://cdn.googlecdnforstreaming.live/dbf789/bein2/chunks.m3u8
+
+#EXTINF:-1,BEIN 3
+https://cdn.googlecdnforstreaming.live/dbf789/bein3/chunks.m3u8
+#EXTINF:-1,BEIN 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
+ 
+#EXTINF:-1,SPOTV 1
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv1/playlist.m3u8
+#EXTINF:-1,SPOTV 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115682
+#EXTINF:-1,SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+ 
+#EXTINF:-1,SPOTV 2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r7/spotv2/playlist.m3u8
+#EXTINF:-1,SPOTV 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115433
+#EXTINF:-1,SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
+ 
+#EXTINF:-1,TRUE SPORTS 1
+https://cdn.googlecdnforstreaming.live/dbf789/tsp1/chunks.m3u8
+#EXTINF:-1,TRUE SPORTS 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115531
+#EXTINF:-1,TRUE SPORTS 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115532
+ 
+#EXTINF:-1,TRUE SPORTS 2
+https://cdn.googlecdnforstreaming.live/dbf789/tsp2/chunks.m3u8
+#EXTINF:-1,TRUE SPORTS 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115790
+#EXTINF:-1,TRUE SPORTS 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115534
+ 
+#EXTINF:-1,TRUE SPORTS 3
+https://cdn.googlecdnforstreaming.live/dbf789/tsp3/chunks.m3u8
+#EXTINF:-1,TRUE SPORTS 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115537
+#EXTINF:-1,TRUE SPORTS 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115538
+ 
+#EXTINF:-1,TRUE SPORTS 5
+https://cdn.googlecdnforstreaming.live/dbf789/tsp5/chunks.m3u8
+#EXTINF:-1,TRUE SPORTS 5
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115541
+#EXTINF:-1,TRUE SPORTS 5
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/2sport5_480p/playlist.m3u8
+ 
+#EXTINF:-1,TRUE SPORTS 7
+https://cdn.googlecdnforstreaming.live/dbf789/tsp7/chunks.m3u8
+#EXTINF:-1,TRUE SPORTS 7
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115798
+#EXTINF:-1,TRUE SPORTS 7
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/2sport7_480p/playlist.m3u8
+ 
+#EXTINF:-1,GOLF CHANNEL
+https://cdn.googlecdnforstreaming.live/dbf789/golf/chunks.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115702
+ 
+#EXTINF:-1,GOLF CHANNEL +
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115698
+ 
+#EXTINF:-1,TRUE TENNIS
+https://cdn.googlecdnforstreaming.live/dbf789/tennis/chunks.m3u8
+#EXTINF:-1,TRUE TENNIS
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115805
+ 
+#EXTINF:-1,NFL
+https://cdn.googlecdnforstreaming.live/dbf789/nfl/chunks.m3u8
+#EXTINF:-1,NFL
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115742
+ 
+#EXTINF:-1,NBA
+https://cdn.googlecdnforstreaming.live/dbf789/nba/chunks.m3u8
+#EXTINF:-1,NBA
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115738
+ 
+#EXTINF:-1,ID STATION
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r2/trueidstation/playlist.m3u8
+ 
+#EXTINF:-1,MOTOR VISION
+https://rr5---sn-w5nuxa-c33lk-34.googleuservideo.com/doofootball_r8/motorvision/playlist.m3u8
+
+#EXTINF:-1,3BB SPORTS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r7/3bbsport/playlist.m3u8
+
+ 
+#EXTINF:-1,ASTRO 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport/playlist.m3u8
+#EXTINF:-1,ASTRO 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115615
+ 
+#EXTINF:-1,ASTRO 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport2/playlist.m3u8
+#EXTINF:-1,ASTRO 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115616
+ 
+#EXTINF:-1,ASTRO 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport3/playlist.m3u8
+#EXTINF:-1,ASTRO 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115617
+ 
+#EXTINF:-1,ASTRO 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport4/playlist.m3u8
+#EXTINF:-1,ASTRO 4
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115618
+ 
+#EXTINF:-1,ASTRO 5
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/astrosupersport5/playlist.m3u8
+
+#EXTINF:-1,SK 1
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/sportklub1slovenia/playlist.m3u8
+#EXTINF:-1,SK 2
+https://rr5---sn-w5nuxa-c33lk-21.googleuservideo.com/doofootball_r4/sportklub2slovenia/playlist.m3u8
+#EXTINF:-1,SK 3
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sportklub3slovenia/playlist.m3u8
+#EXTINF:-1,SK 4
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sportklub4slovenia/playlist.m3u8
+#EXTINF:-1,SK 5
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sportklub5/playlist.m3u8
+#EXTINF:-1,SK 6
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/sportklub6/playlist.m3u8
+
+#EXTINF:-1,BT SPORT 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport1/playlist.m3u8
+#EXTINF:-1,BT SPORT 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8
+#EXTINF:-1,BT SPORT 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsport3/playlist.m3u8
+#EXTINF:-1,BT SPORT 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/btsportespn/playlist.m3u8
+ 
+#EXTINF:-1,ELEVEN 1
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/elevensports1pt/playlist.m3u8
+#EXTINF:-1,ELEVEN 2
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/elevensport2pt/playlist.m3u8
+#EXTINF:-1,EVEVEN 3
+https://rr5---sn-w5nuxa-c33lk-22.googleuservideo.com/doofootball_r4/elevensport3pt/playlist.m3u8
+
+#EXTINF:-1,ARENA 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport1serbia/playlist.m3u8
+#EXTINF:-1,ARENA 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport2serbia/playlist.m3u8
+#EXTINF:-1,ARENA 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport3serbia/playlist.m3u8
+#EXTINF:-1,ARENA 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport4serbia/playlist.m3u8
+#EXTINF:-1,ARENA 5
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/arenasport5sr/playlist.m3u8
+#EXTINF:-1,ARENA 6
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/6eren/playlist.m3u8
+ 
+#EXTINF:-1,DIGI 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport1romania/playlist.m3u8
+#EXTINF:-1,DIGI 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport2romania/playlist.m3u8
+#EXTINF:-1,DIGI 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport3romania/playlist.m3u8
+#EXTINF:-1,DIGI 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/digisport4romania/playlist.m3u8
+
+#EXTINF:-1,BEIN 1 PREMIUM
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein1premiumarab/playlist.m3u8
+#EXTINF:-1,BEIN 2 PREMIUM
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein2premiumarab/playlist.m3u8
+#EXTINF:-1,BEIN 3 PREMIUM
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3premiumarab/playlist.m3u8
+
+#EXTINF:-1,BEIN 1 ENG
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein1englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 2 ENG
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein2englisharab/playlist.m3u8
+#EXTINF:-1,BEIN 3 ENG
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3englisharab/playlist.m3u8
+
+#EXTINF:-1,BEIN 1 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsport1fr/playlist.m3u8
+#EXTINF:-1,BEIN 2 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsport2fr/playlist.m3u8
+#EXTINF:-1,BEIN 4 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinmax4fr/playlist.m3u8
+#EXTINF:-1,BEIN 5 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinmax5fr/playlist.m3u8
+#EXTINF:-1,BEIN 6 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinmax6fr/playlist.m3u8
+
+#EXTINF:-1,BEIN 1 ARABIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsportsarabia1hd/playlist.m3u8
+#EXTINF:-1,BEIN 2 ARABIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsportsarabia2hd/playlist.m3u8
+#EXTINF:-1,BEIN 3 ARABIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsportsarabia3hd/playlist.m3u8
+#EXTINF:-1,BEIN 4 ARABIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein4arab/playlist.m3u8
+#EXTINF:-1,BEIN 5 ARABIA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein5arab/playlist.m3u8
+ 
+#EXTINF:-1,BEIN 1 AU
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsports1au/playlist.m3u8
+#EXTINF:-1,BEIN 2 AU
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsports2au/playlist.m3u8
+#EXTINF:-1,BEIN 3 AU
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3au/playlist.m3u8
+
+#EXTINF:-1,BEIN 1 TURKEY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsports1tu/playlist.m3u8
+#EXTINF:-1,BEIN 2 TURKEY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/beinsports2tu/playlist.m3u8
+#EXTINF:-1,BEIN 3 TURKEY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/bein3tu/playlist.m3u8
+#EXTINF:-1,BEIN 4 TURKEY
+https://rr5---sn-w5nuxa-c33lk-36.googleuservideo.com/doofootball_r4/bein4tu/playlist.m3u8
+
+#EXTINF:-1,FS 1 US
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports1usa/playlist.m3u8
+#EXTINF:-1,FS 2 US
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports2usa/playlist.m3u8
+ 
+#EXTINF:-1,ESPN 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports1nl/playlist.m3u8
+#EXTINF:-1,ESPN 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports2nl/playlist.m3u8
+#EXTINF:-1,ESPN 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports3nl/playlist.m3u8
+#EXTINF:-1,ESPN 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports4nl/playlist.m3u8
+#EXTINF:-1,ESPN 5
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/foxsports5nl/playlist.m3u8
+ 
+#EXTINF:-1,SPORT TV 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv1/playlist.m3u8
+#EXTINF:-1,SPORT TV 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv2/playlist.m3u8
+#EXTINF:-1,SPORT TV 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv3/playlist.m3u8
+#EXTINF:-1,SPORT TV 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv4/playlist.m3u8
+#EXTINF:-1,SPORT TV 5
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sporttv5/playlist.m3u8
+
+#EXTINF:-1,DIEMA 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/diemasport1/playlist.m3u8
+#EXTINF:-1,DIEMA 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/diemasport2/playlist.m3u8
+ 
+#EXTINF:-1,ESPN BR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/espnbrazil/playlist.m3u8
+#EXTINF:-1,ESPN 1 BR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/espnbr/playlist.m3u8
+#EXTINF:-1,ESPN 2 BR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/espn2br/playlist.m3u8
+
+#EXTINF:-1,MATCH 1 FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/matchfootball1/playlist.m3u8
+#EXTINF:-1,MATCH 2 FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/matchfootball2/playlist.m3u8
+#EXTINF:-1,MATCH 3 FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/matchfootball3/playlist.m3u8
+
+#EXTINF:-1,ORANGE 
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/telekomsport1ro/playlist.m3u8
+#EXTINF:-1,ORANGE 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/orangesport1ro/playlist.m3u8
+#EXTINF:-1,ORANGE 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/orangesport2ro/playlist.m3u8
+#EXTINF:-1,ORANGE 3
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/orangesport3ro/playlist.m3u8
+#EXTINF:-1,ORANGE 4
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/orangesport4ro/playlist.m3u8
+
+#EXTINF:-1,SUPERSPORT 1 AL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport1al/playlist.m3u8
+#EXTINF:-1,SUPERSPORT 2 AL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport2al/playlist.m3u8
+#EXTINF:-1,SUPERSPORT 3 AL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersport3al/playlist.m3u8
+
+#EXTINF:-1,SUPERSPORT PL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersportepl/playlist.m3u8
+
+#EXTINF:-1,SUPERSPORT FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/supersportfootball/playlist.m3u8
+
+#EXTINF:-1,SPORTV 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sportv/playlist.m3u8
+#EXTINF:-1,SPORTV 2
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sportv2/playlist.m3u8
+
+#EXTINF:-1,ESPN US
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/espnus/playlist.m3u8
+
+#EXTINF:-1,SPORT AO VIVO
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sportv/playlist.m3u8
+ 
+#EXTINF:-1,CANAL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/canal11pt/playlist.m3u8
+
+#EXTINF:-1,CANAL DENMARK
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/canal9denmark/playlist.m3u8
+ 
+#EXTINF:-1,C MORE FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/cmorefootball/playlist.m3u8
+ 
+#EXTINF:-1,C MORE LIVE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/cmorelivehd/playlist.m3u8
+
+#EXTINF:-1,MUTV
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/mutv/playlist.m3u8
+ 
+#EXTINF:-1,LIVERPOOL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/lfctv/playlist.m3u8
+
+#EXTINF:-1,ZIGGO SELECT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/ziggosportselect/playlist.m3u8
+
+#EXTINF:-1,ZIGGO VOETBAL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/ziggosportvoetbal/playlist.m3u8
+
+#EXTINF:-1,EUROSPORT 1 FR
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/eurosport1fr/playlist.m3u8
+ 
+#EXTINF:-1,SKY SPORT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysport1de/playlist.m3u8
+ 
+#EXTINF:-1,SKY EVENT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportmainevent/playlist.m3u8
+ 
+#EXTINF:-1,SKY ACTION
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportaction/playlist.m3u8
+ 
+#EXTINF:-1,SKY FOOTBALL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportfootball/playlist.m3u8
+ 
+#EXTINF:-1,SKY PREMIERE
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportpremiere/playlist.m3u8
+ 
+#EXTINF:-1,SKY ARENA
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportarena/playlist.m3u8
+ 
+#EXTINF:-1,SKY GOLF
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportgolf/playlist.m3u8
+
+#EXTINF:-1,SKY CLICKET
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportclicket/playlist.m3u8
+
+#EXTINF:-1,SKY MIX
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportmix/playlist.m3u8
+
+#EXTINF:-1,SKY F1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/skysportf1/playlist.m3u8
+
+#EXTINF:-1,PREMIERE SPORT 1
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/premiersports/playlist.m3u8
+
+#EXTINF:-1,FREE SPORTS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/uk-freesport/playlist.m3u8
+
+#EXTINF:-1,SPORT DIGITAL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sportdigital/playlist.m3u8
+
+#EXTINF:-1,SPORT 1 PLUS
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/sport1plus/playlist.m3u8
+
+#EXTINF:-1,GOL PLAY
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/gol/playlist.m3u8
+
+#EXTINF:-1,PFC
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/pfc/playlist.m3u8
+
+#EXTINF:-1,3 MAX
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/tv3max/playlist.m3u8
+ 
+#EXTINF:-1,VIASAT FOTBOLL
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/viasatfotboll/playlist.m3u8
+ 
+#EXTINF:-1,3 SPORT
+https://rr5---sn-w5nuxa-c33lk-37.googleuservideo.com/doofootball_r4/tv3sport1/playlist.m3u8
+
+
+ 
+#===================================== เพลง ==========================================#
+ 
+
+
+
+#EXTINF:-1,A3 BIKINI
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+ 
+#EXTINF:-1,SWEET 
+https://cdn6.goprimetime.info/feed/202205171929/LC58/index.m3u8
+ 
+#EXTINF:-1,V
+https://cdn6.goprimetime.info/feed/202205171929/LC14/index.m3u8
