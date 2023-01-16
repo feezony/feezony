@@ -1,5 +1,8 @@
 # Blacklist Ip-Address by Feezony [2022-11-28]
 # Most of them is IP-Address from Thailand
+##Fake Anydesk Vidar Malware
+#Ref : https://www.enterpriseitpro.net/over-1300-fake-anydesk-sites/?fbclid=IwAR2HNsPauX1GUxNjr7hRPm0sehIVXWk6ohgN_AYxNI8-4Jv4A42pB-TXgm0
+185.149.120.9
 ##2022-12-07 11:56:42 #IPsec VPN
 14.207.242.88
 ##2022-11-30 11:54:08 #IPsec VPN
