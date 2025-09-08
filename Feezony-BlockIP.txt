@@ -2,6 +2,20 @@
 # Most of them is IP-Address from Thailand
 ##Fake Anydesk Vidar Malware
 #Ref : https://www.enterpriseitpro.net/over-1300-fake-anydesk-sites/?fbclid=IwAR2HNsPauX1GUxNjr7hRPm0sehIVXWk6ohgN_AYxNI8-4Jv4A42pB-TXgm0
+##2025-09-08 #IPsec VPN
+193.163.125.195
+193.163.125.188
+147.185.132.10
+162.142.125.80
+165.232.129.254
+167.94.138.139
+167.94.138.155
+185.242.226.62
+198.235.24.220
+20.83.173.252
+64.62.156.48
+64.62.197.195
+64.62.197.2
 ##2025-09-03 #IPsec VPN
 110.77.148.76
 185.149.120.9
@@ -1071,4 +1085,5 @@
 110.77.159.145
 110.78.179.61
 171.97.153.142
+
 
